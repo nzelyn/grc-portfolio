@@ -1,6 +1,6 @@
 # NexaCloud Solutions — Cybersecurity GRC Portfolio
 
-**Built by:** [Your Name] | GRC Engineer / Cybersecurity Consultant  
+**Built by:** [Naveen A D] | GRC Engineer / Cybersecurity Consultant  
 **Company Context:** NexaCloud Solutions (fictional) — SaaS/Cloud Security, 250 employees, AWS infrastructure, Bangalore & Austin offices  
 **Frameworks:** SOC 2 Type II | ISO 27001:2022 | NIST CSF
 
